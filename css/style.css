@@ -1322,3 +1322,14 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+
+  .rowIMGwork {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .columnIMGwork {
+    flex: 33.33%;
+    padding: 5px;
+  }
